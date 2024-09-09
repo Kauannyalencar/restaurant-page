@@ -7,4 +7,4 @@
 <li>Js</li>
 <li>SASS</li>
 <li>Node.JS</li>
-<p><a>Deploy</a></p>
+<p><a href="https://kauannyalencar.github.io/restaurant-page/">Deploy</a></p>
